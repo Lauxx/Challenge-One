@@ -1,4 +1,11 @@
+.jumboColor{
+	background:turquoise;
+}
+
 .formEdit{
 	background: #886688;
 	padding: 50px 100px 50px 100px;
+}
+.paddingEdit{
+	padding:	25px 75px 25px 75px;
 }
