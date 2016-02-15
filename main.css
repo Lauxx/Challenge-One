@@ -5,7 +5,13 @@
 .formEdit{
 	background: #886688;
 	padding: 50px 100px 50px 100px;
+	margin: 50px 0 50px 0;
 }
 .paddingEdit{
 	padding:	25px 75px 25px 75px;
+}
+.tableColor{
+	background:pink;
+	padding: 50px 100px 50px 100px;
+	margin: 50px 0 50px 0;
 }
